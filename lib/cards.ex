@@ -67,4 +67,4 @@ defmodule Cards do
     |> shuffle()
     |> deal(hand_size)
   end
-endsdf
+end
